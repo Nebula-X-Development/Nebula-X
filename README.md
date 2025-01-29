@@ -1,6 +1,7 @@
 # <p align="center">🛸Nebula-X-BETA🛸</p>
 
-<img src="https://example.com/image.png" alt="Alt text" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20nebula.jpg" alt="Alt text" style="border-radius: 15px;">
+
 
 
 
