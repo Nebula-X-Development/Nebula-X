@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20.png" alt="Nebula-X Logo">
+  <img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/big%20logo.png" alt="Nebula-X Logo">
 </p>
 
 <h2 align="center">Nebula-X BETA</h2>
