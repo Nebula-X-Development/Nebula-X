@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20nebula.jpg" alt="Nebula-X Logo" style="border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20nebula.jpg" alt="Nebula-X Logo" style="border-radius: 15px; max-width: 100%; height: auto;">
 </p>
 
 <h2 align="center">Nebula-X BETA</h2>
