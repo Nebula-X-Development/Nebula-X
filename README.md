@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/big%20logo.png" alt="Nebula-X Logo">
 </p>
+</p> https://nebulax.playcode.io
 
 <h2 align="center">Nebula-X BETA</h2>
 
