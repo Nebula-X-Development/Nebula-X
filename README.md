@@ -1,11 +1,9 @@
-# <p align="center">🛸Nebula-X-BETA🛸</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20nebula.jpg" alt="Nebula-X Logo" style="border-radius: 15px;">
+</p>
 
-<img src="https://raw.githubusercontent.com/Nebula-X-development/Nebula-X-Beta/main/big%20logo%20nebula.jpg" alt="Alt text" style="border-radius: 15px;">
+<h2 align="center">Nebula-X BETA</h2>
 
-
-
-
-
-Nebula-X BETA is a glance at  what may be to come. the Nebula team is working hard to make one of the cleanest and best looking UIs ever. and currently, we are in a very very BETA faze of  the project without having any functionality to the website  or a proper host. please stay tuned and check out what we have so far!
-
-
+<p align="center">
+  Nebula-X BETA is a glance at what may be to come. The Nebula team is working hard to make one of the cleanest and best looking UIs ever. Currently, we are in a very very BETA phase of the project without having any functionality to the website or a proper host. Please stay tuned and check out what we have so far!
+</p>
