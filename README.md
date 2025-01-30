@@ -5,7 +5,7 @@
 <h2 align="center"> Explore the Web Beyond the Stars </h2>
 
 <p align="center">
-<img scr="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/website%20sneak%20peak.png" 
+   <img scr="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/website%20sneak%20peak.png" >
 
 <h2 align="center">About Nebula-X BETA</h2>
 
