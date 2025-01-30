@@ -107,12 +107,34 @@
             border: 2px solid #d580ff;
             box-shadow: 0 0 10px #d580ff;
             transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+            overflow: hidden;
         }
 
         .content a:hover {
             transform: scale(1.2);
             box-shadow: 0 0 20px #d580ff;
             opacity: 0.9;
+        }
+
+        .particle {
+            position: absolute;
+            width: 6px;
+            height: 6px;
+            background: rgba(255, 182, 193, 0.8); /* Pink particles */
+            border-radius: 50%;
+            pointer-events: none;
+            animation: shoot-out 1s forwards;
+        }
+
+        @keyframes shoot-out {
+            from {
+                opacity: 1;
+                transform: translate(0, 0) scale(1);
+            }
+            to {
+                opacity: 0;
+                transform: translate(var(--x), var(--y)) scale(0.5);
+            }
         }
     </style>
     <script>
@@ -142,6 +164,34 @@
                 span.textContent = letter;
                 text.appendChild(span);
             });
+
+            // Particle animation on button hover
+            const button = document.querySelector('.content a');
+            button.addEventListener('mouseenter', () => {
+                const buttonRect = button.getBoundingClientRect();
+                const container = document.body;
+
+                for (let i = 0; i < 20; i++) {
+                    const particle = document.createElement('div');
+                    particle.classList.add('particle');
+
+                    const angle = Math.random() * 2 * Math.PI;
+                    const distance = Math.random() * 120 + 60; // Particles start farther out
+                    const x = Math.cos(angle) * distance;
+                    const y = Math.sin(angle) * distance * 0.5; // Make the particles align to oval shape
+
+                    particle.style.setProperty('--x', `${x}px`);
+                    particle.style.setProperty('--y', `${y}px`);
+                    particle.style.left = `${buttonRect.left + buttonRect.width / 2}px`;
+                    particle.style.top = `${buttonRect.top + buttonRect.height / 2}px`;
+
+                    container.appendChild(particle);
+
+                    particle.addEventListener('animationend', () => {
+                        particle.remove();
+                    });
+                }
+            });
         });
     </script>
 </head>
@@ -149,8 +199,8 @@
     <div class="background">
         <div class="stars"></div>
         <div class="content">
-            <h1>Welcome to <span>exploration</span></h1>
-            <p>Start your journey today on Nebula-X</p>
+            <h1>Welcome to <span>Nebula-X</span></h1>
+            <p>Stay tuned for the final release of Nebula-X</p>
             <a href="#">Get Started</a>
         </div>
     </div>
