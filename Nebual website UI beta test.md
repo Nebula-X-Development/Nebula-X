@@ -1,6 +1,6 @@
 <p align="center"> 
-<img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/NEBULA%20LOGO.png">
-<p align="center"> # Using Nebula
+<img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/NEBULA%20LOGO.png"scale: hight:50px width: 50px>
+<p align="center"> USING NEBULA
 
 </p>
 Warning: Nebula-X is currently in its BETA phase and has no real functionality. currently, all you can test and see is the Website design and UI which is all open source. if you would like to check out the website then go to https://preview-nebulax.playcode.io/# or open it locally by using the NEBULA.html file. 
