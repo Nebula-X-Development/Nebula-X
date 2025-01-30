@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/image%20(1).png" alt="Nebula-X Logo">
+  <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/Nebula Banner.png" alt="Nebula-X Logo">
 <p align="center"> https://nebulax.playcode.io
 
 <h2 align="center"> Explore the Web Beyond the Stars </h2>
