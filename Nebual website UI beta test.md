@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/NEBULA%20LOGO.png"hight=50px width=50px>
+<img src="https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/NEBULA%20LOGO.png"hight=70px width=70px>
 <p align="center"> USING NEBULA
 
 </p>
