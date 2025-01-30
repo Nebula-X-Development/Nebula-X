@@ -3,9 +3,8 @@
 <p align="center"> https://nebulax.playcode.io
 
 <h2 align="center"> Explore the Web Beyond the Stars </h2>
-
   
-   <img scr="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/website%20sneak%20peak.png">
+![Screenshot 2025-01-29 3 49 11 PM](https://github.com/user-attachments/assets/7cf9b6bd-bf65-4ded-be88-c05882d0bffa)
 
 <h2 align="center">About Nebula-X BETA</h2>
 
