@@ -6,7 +6,7 @@
 
 </p>
 
-  Nebula-X BETA is a glance at what may be to come. the goals for Nebula are for it to become one of the best looking and fast proxy ever. we take design very seriously and plan to make the Nebula web design one of the nicest UIs you will ever see. We plan to expand the capabilities to the max by growing our power and community and build something out of this world.
+ Nebula-X BETA is an open-source project currently in development, focused on creating a web-based proxy with a sleek, modern, space-inspired UI. At this stage, the project showcases the foundational design, offering a visually captivating experience with a futuristic, space-themed interface. While functionality is still in progress, Nebula-X will eventually provide a high-performance, secure, and user-friendly proxy service. As the project evolves, it aims to combine cutting-edge design with robust functionality to deliver an exceptional browsing experience.
 
 <h2 align="center">Using Nebula-X</h2>
 
