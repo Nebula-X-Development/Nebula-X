@@ -4,7 +4,8 @@
 
 <h2 align="center"> Explore the Web Beyond the Stars </h2>
   
-![Screenshot 2025-01-29 3 49 11 PM](https://github.com/user-attachments/assets/7cf9b6bd-bf65-4ded-be88-c05882d0bffa)
+![image](https://github.com/user-attachments/assets/7bdb35c2-1a6d-4bec-92c0-6e7c00d55485)
+
 
 <h2 align="center">About Nebula-X BETA</h2>
 
