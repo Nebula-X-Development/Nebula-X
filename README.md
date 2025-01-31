@@ -39,5 +39,8 @@ the current link to use is https://nebulax.playcode.io/index.html
 
 <p>if, while using Nebula-X you experience any issues please report it  in the Issues Tab https://github.com/Nebula-X-Development/Nebula-X-BETA/issues our  team will do our best to help fix the issue. we hope to be bug-free and make your experience as smooth as possible. 🚀
 
+## 🛰️ - Common Issues
+particles not showing up even though performance mode isn't toggled. to fix this your going to want to go to your website's settings. for chrome that is chrome://settings. then go to privacy and cookies and find playcode.io click the drop-down find nebula and delete the  cookies. then reload your page and the issue should be fixed. the reason this happens is because for performance mode we use locally  stored data aka cookies to remember if you turned on performance mode. this sometimes causes the code to mix up and turn off particles even if it isn't on. we will fix this issue soon!
+
 ## Key Words.
 securly, goguardian, unblocked, unblocker, proxy, unblocked games, securly bypass, school blocker, best proxy
