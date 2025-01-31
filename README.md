@@ -6,7 +6,9 @@
   
 ![image](https://github.com/user-attachments/assets/7bdb35c2-1a6d-4bec-92c0-6e7c00d55485)
 
-
+> [!IMPORTANT]
+> If you use our site please consider giving us
+> star. Thank you!
 <h2 align="center">About Nebula-X BETA</h2>
 
 </p>
