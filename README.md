@@ -24,6 +24,9 @@
 
  Nebula-X BETA is an open-source project currently in development, focused on creating a web-based proxy with a sleek, modern, space-inspired UI. At this stage, the project showcases the foundational design, offering a visually captivating experience with a futuristic, space-themed interface. While functionality is still in progress, Nebula-X will eventually provide a high-performance, secure, and user-friendly proxy service. As the project evolves, it aims to combine cutting-edge design with robust functionality to deliver an exceptional browsing experience. we hope to provide the best unblocked experience possible. 
 
+<p align="center">
+<img src="https://socialify.git.ci/Nebula-X-Development/Nebula-X-BETA/image?description=1&font=Jost&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNebula-X-Development%2FNebula-X-BETA%2Frefs%2Fheads%2Fmain%2FNEBULA_LOGO.png&name=1&owner=1&pattern=Brick+Wall&stargazers=1&theme=Dark" alt="ruby" width="640" height="320" />
+
 ## 🪐 - Using Nebula-X 
 
 > [!WARNING]
