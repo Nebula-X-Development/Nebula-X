@@ -12,7 +12,7 @@
 ## 👾 - Features
 
 -   Out-of-this-world UI - (More UI updates soon)
--   Games - (coming soon)
+-   Games - (WORKING!)
 -   Apps - (coming soon)
 -   Proxy - (BETA)
 -   Settings - (BETA)
