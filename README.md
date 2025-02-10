@@ -16,7 +16,7 @@
 -   Apps - (coming soon)
 -   Proxy - (BETA)
 -   Settings - (BETA)
--   About:Blank cloaking - (BETA)
+-   About:Blank cloaking - (WORKING!)
 
 ## 🌍 - About Nebula-X 
 
