@@ -48,14 +48,7 @@ rammerhead | https://obama.dd.msk.su/                                         <p
 ------------------------------------------------------------------------------    <p/>     
 interstealer | https://clever.com.cerrajeriasanmiguel.com/<p/>
 ------------------------------------------------------------------------------  <p/>
-saturn | https://saturn.sibmed.org.ru/<p/>
-------------------------------------------------------------------------------  <p/>
-core | https://pbs.kids.pbxrus.com/<p/>
-core | https://b.l.lysterfam.net/<p/>
-core | https://pull.out-the.brt.ar/<p/>
-core | https://erm.where-is.dlvan.ar/<p/>
-core | https://immortaltwo-is-very.gay/<p/>
------------------------------------------------------------------------------- <p/>
+
 <p/>
 UNBLOCKED CHAT GPT / AI:<p/>
      link<p/>
