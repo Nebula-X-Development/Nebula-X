@@ -1,5 +1,5 @@
 <p/> updated: 18/FEB/2025 <p/> 
- update log: lots of links removed due to mass blocking. more links coming very soon.
+ update log: lots of links removed due to mass blocking. more links coming very soon.<p/> 
  --------------------------------------------------------------------------------------<p/> 
 (these sites weren't made or worked on by the nebula team and are completely different associations.)<p/> 
 
