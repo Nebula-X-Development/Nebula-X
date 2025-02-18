@@ -44,7 +44,8 @@ the current link to use is https://nebulax.playcode.io/index.html
 <p>if, while using Nebula-X you experience any issues please report it  in the Issues Tab https://github.com/Nebula-X-Development/Nebula-X-BETA/issues our  team will do our best to help fix the issue. we hope to be bug-free and make your experience as smooth as possible. 🚀
 
 ## 🛰️ - Common Issues
-performance mode not working? this is because it is broken. we are so sorry for the inconvienience and will be fixing it soon.
+proxy not working? this is because Nebula X currently does not provide any functional proxy services. we are sorry for the inconvenience.
+performance mode not working? this is because it is broken. We are so sorry for the inconvenience and will fix it soon.
 
 ## ☄️ - Other unbl0ked links / sites.
 here at Nebula our main goal is to provide unblocked fun. We understand that our site will have some issues, but there are better sites out there. so we decided instead of trying to hide that we decided to embrace it. this is a list of Working unbl0ked links for games, pr0xies, ai and more. we dont claim any of these sites as ours because they arent. we hope you enjoy these if our service doesnt live up to what it should. thank you for using Nebula! go here for the links --->  https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/links%20(not%20Nebula).md
