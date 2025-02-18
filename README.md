@@ -18,6 +18,7 @@
 -   Settings - (BETA)
 -   About:Blank cloaking - (WORKING!)
 -   Tab cloaking - (New!)
+-   Panic key - (New!)
 
 ## 🌍 - About Nebula-X 
 
