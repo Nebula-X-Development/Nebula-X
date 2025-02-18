@@ -29,13 +29,6 @@ shadow | https://notmyproblem.shadowshark.ipv64.net/<p/>
 shadow | https://scaredofthedark.radarvision.co.za/<p/>
 ------------------------------------------------------------------------------  <p/>
 space | https://berriestillfall.puffballofevil.com   <p/>
-space | https://www.yum.coranonprofit.org/<p/>
-space | https://wefkjlfljkewjfwef.limana.rs/<p/>
-space | https://hithere.gestionacademica.cl/<p/>
-space | https://skyzone.radarvision.co.za/<p/>
-https://edu.saugatnepal.com.np/<p/>
-https://p99bs.kalbas.com.vn/<p/>
-https://ilike.spacetechnology.net/<p/>
 ------------------------------------------------------------------------------   <p/>
 vorton | https://tcrack.vortron.net/                 <p/>
 ------------------------------------------------------------------------------   <p/>
