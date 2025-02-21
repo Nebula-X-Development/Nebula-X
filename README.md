@@ -20,6 +20,13 @@
 -   Tab cloaking - (New!)
 -   Panic key - (New!)
 
+## 👨‍🚀 - Update Notes
+v1.8 notes
+- Added more games
+- added panic key
+- fixed about:blank cloak
+- updated ui
+- 
 ## 🌍 - About Nebula-X 
 
 </p>
