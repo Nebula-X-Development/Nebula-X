@@ -26,7 +26,7 @@ v1.8 notes
 - added panic key
 - fixed about:blank cloak
 - updated ui
-- 
+  
 ## 🌍 - About Nebula-X 
 
 </p>
