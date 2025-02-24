@@ -1,4 +1,4 @@
-javascript: document.body.innerHTML = `
+document.body.innerHTML = `
     <style>
         body {
             font-family: Arial, sans-serif;
