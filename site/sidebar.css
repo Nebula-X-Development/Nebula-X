@@ -1,0 +1,76 @@
+/* Sidebar Styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 100%;
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    transition: width 0.3s ease-in-out;
+    padding-top: 15px;
+    z-index: 10;
+    border-bottom: 2px solid #d580ff;
+}
+
+.sidebar:hover {
+    width: 70px;
+}
+
+.sidebar .logo {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+}
+
+.sidebar .logo:hover {
+    transform: scale(1.2);
+}
+
+.sidebar .divider {
+    width: 80%;
+    border-bottom: 1px solid #d580ff;
+    margin-bottom: 15px;
+}
+
+.sidebar .nav-item {
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    color: #d580ff;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    margin-bottom: 15px;
+}
+
+.sidebar .nav-item.selected {
+    background-color: #b34cd9;
+    border-radius: 10px;
+    color: white;
+}
+
+.sidebar .nav-item i {
+    font-size: 16px;
+}
+
+.sidebar .nav-item:hover {
+    transform: scale(1.2);
+    color: white;
+}
+
+/* Responsiveness for Sidebar */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 50px;
+    }
+    .sidebar:hover {
+        width: 70px;
+    }
+    .sidebar .nav-item {
+        font-size: 14px;
+    }
+}
