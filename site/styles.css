@@ -1,0 +1,125 @@
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle at bottom, #7c2ae8, #000); /* Background similar to your design */
+    color: white;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 100%;
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    transition: width 0.3s ease-in-out;
+    padding-top: 15px;
+    z-index: 10;
+    border-bottom: 2px solid #d580ff;
+}
+
+.sidebar:hover {
+    width: 70px;
+}
+
+.sidebar .logo {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+}
+
+.sidebar .logo:hover {
+    transform: scale(1.2);
+}
+
+.sidebar .divider {
+    width: 80%;
+    border-bottom: 1px solid #d580ff;
+    margin-bottom: 15px;
+}
+
+.sidebar .nav-item {
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    color: #d580ff;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    margin-bottom: 15px;
+}
+
+.sidebar .nav-item.selected {
+    background-color: #b34cd9;
+    border-radius: 10px;
+    color: white;
+}
+
+.sidebar .nav-item i {
+    font-size: 16px;
+}
+
+.sidebar .nav-item:hover {
+    transform: scale(1.2);
+    color: white;
+}
+
+/* Search Box Styles */
+.search-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.search-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.search-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.search-box input {
+    width: 400px;
+    padding: 12px 20px;
+    border-radius: 30px;
+    border: 2px solid #d580ff;
+    outline: none;
+    background-color: #111;
+    color: white;
+    font-size: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.search-box input:focus {
+    box-shadow: 0 0 15px #d580ff;
+}
+
+.search-box button {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #d580ff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.search-box button:hover {
+    color: white;
+}
