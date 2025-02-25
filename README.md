@@ -19,9 +19,11 @@
 -   About:Blank cloaking - (WORKING!)
 -   Tab cloaking - (New!)
 -   Panic key - (New!)
+-   Nebula-x Light
 
 ## 👨‍🚀 - Update Notes
-v1.8 notes
+v1.9 notes
+- Nebula-x light (NEW!!)
 - Added more games
 - added panic key
 - fixed about:blank cloak
