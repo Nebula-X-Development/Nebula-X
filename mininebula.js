@@ -24,6 +24,8 @@ document.body.innerHTML = `
     </style>
     <h1>Nebula-X light</h1>
     <p>Nebula-X light is a mini version in js of the origional. currently only containing games. eventually we hope to add more!</p>
+    <p>for the main site go</p><a href="https://nebulax.playcode.io/index.html">Here</a>
+
 <h3> Games </h3>
     <button class="game-button" id="1v1lolBtn">1v1.LOL</button>
     <button class="game-button" id="eaglecraftBtn">Eaglecraft</button>
