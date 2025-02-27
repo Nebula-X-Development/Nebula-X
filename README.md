@@ -42,15 +42,19 @@ v2.0.0 notes
 > [!WARNING]
 > Nebula-X is in **BETA** and currently is in testing phase. which means no proxy functionality.
 > Our team is working hard to get the Proxy up and running. please be patient.
-> You **can not** host Space locally via a static web hosting site
-> such as Netlify, Github Pages, and Cloudflare Pages, or any form of deployment.
+> Deploying Nebula on static web hosts is buggy but its possible!
 
-To use Nebula you must use it through one of the provided links. eventually, we do plan to make it deployable but for now, use any links please, and thank you.
-the current link to use is https://nebulax.playcode.io/index.html 
+you can currently Deploy Nebula through Netlify and also you can acces Nebula through our provided links which currently is run on playcode. we will improve this soon. 
+
+**CURRENT LINKS** https://nebulax.playcode.io/index.html (recommended) OR https://nebula-x-beta.netlify.app/ (buggy)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc7e44f8-980c-4f2a-a2b4-2a1606aa4b3d/deploy-status)](https://app.netlify.com/sites/nebula-x-beta/deploys)
 
 ## 🌑 - Support 
 
-<p>if, while using Nebula-X you experience any issues please report it  in the Issues Tab https://github.com/Nebula-X-Development/Nebula-X-BETA/issues our  team will do our best to help fix the issue. we hope to be bug-free and make your experience as smooth as possible. 🚀
+<p>if, while using Nebula-X you experience any issues, please report it  in the Issues Tab https://github.com/Nebula-X-Development/Nebula-X-BETA/issues our  team will do our best to help fix the issue. we hope to be bug-free and make your experience as smooth as possible. 🚀
+
+
 
 ## 🛰️ - Common Issues
 proxy not working? this is because Nebula X currently does not provide any functional proxy services. we are sorry for the inconvenience.
