@@ -47,6 +47,7 @@ v2.0.0 notes
 you can currently Deploy Nebula through Netlify and also you can acces Nebula through our provided links which currently is run on playcode. we will improve this soon. 
 
 **CURRENT LINKS** https://nebulax.playcode.io/index.html (recommended) OR https://nebula-x-beta.netlify.app/ (buggy)
+DO NOT try to fork this repo and deply on netlify through there. IT WILL NOT WORK. we will be fixing this soon
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc7e44f8-980c-4f2a-a2b4-2a1606aa4b3d/deploy-status)](https://app.netlify.com/sites/nebula-x-beta/deploys)
 
