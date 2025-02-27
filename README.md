@@ -27,6 +27,7 @@ v2.0.0 notes
 - Nebula-x light (NEW!!)
 - Added more games
 - updated ui
+
   
 ## 🌍 - About Nebula-X 
 
@@ -42,12 +43,16 @@ v2.0.0 notes
 > [!WARNING]
 > Nebula-X is in **BETA** and currently is in testing phase. which means no proxy functionality.
 > Our team is working hard to get the Proxy up and running. please be patient.
-> Deploying Nebula on static web hosts is buggy but its possible!
+> our team is working hard to make nebula deployable everywhere so we can become almost unblockable!
 
-you can currently Deploy Nebula through Netlify and also you can acces Nebula through our provided links which currently is run on playcode. we will improve this soon. 
+Nebula links and deployment. Currently you can deploy Nebula on Netlify and Github pages. there are a few bugs currently on the deployable sites. which you may see, we are working our hardest to fix all these bugs and plan on getting them all fixed by the final release.  for best experience, please use the first link!!!
 
-**CURRENT LINKS** https://nebulax.playcode.io/index.html (recommended) OR https://nebula-x-beta.netlify.app/ (buggy)
-you can deploy it on netlify. just if you do fork please star!
+**CURRENT LINKS**
+- https://nebulax.playcode.io/index.html (recommended)
+- https://nebula-x-beta.netlify.app/ (buggy)
+- https://nebula-x-development.github.io/Nebula-X-site/index.html (buggy)
+
+deployment methods. just if you do fork please star!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc7e44f8-980c-4f2a-a2b4-2a1606aa4b3d/deploy-status)](https://app.netlify.com/sites/nebula-x-beta/deploys)
 
