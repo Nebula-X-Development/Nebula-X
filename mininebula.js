@@ -33,6 +33,7 @@ document.body.innerHTML = `
     <button class="game-button" id="crossyroadBtn">Crossy Road</button>
     <button class="game-button" id="driftbossBtn">Drift Boss</button>
     <button class="game-button" id="eggycarBtn">Eggy Car</button>
+    <button class="game-button" id="geodashBtn">geodash</button>
     <button class="game-button" id="flappybirdBtn">Flappy Bird</button>
     <button class="game-button" id="kahootBtn">KahootFlooder</Flooder></button>
     <button class="game-button" id="mario64Btn">Mario 64</button>
@@ -45,6 +46,7 @@ const games = {
     "crossyroadBtn": "https://unsignedarduino.github.io/Crossy-Roads-2/",
     "driftbossBtn": "https://webglmath.github.io/drift-boss/",
     "eggycarBtn": "https://webglmath.github.io/eggy-car/",
+"geodashBtn": "https://ubg77.github.io/fix/gd/",
     "flappybirdBtn": "https://professorlouie.github.io/gamehub/flappybird/",
     "kahootBtn": "https://kahoot.club",
     "mario64Btn": "https://professorlouie.github.io/mario/index.html"
