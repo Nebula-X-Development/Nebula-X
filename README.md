@@ -20,13 +20,15 @@
 -   Tab cloaking - (New!)
 -   Panic key - (New!)
 -   Nebula-x Light
+-   unblocked Ai chatbot
+-   working search tool
 
 ## 👨‍🚀 - Update Notes
 v2.0.0 notes
-- Added Tools Page!
-- Nebula-x light (NEW!!)
-- Added more games
-- updated ui
+- updted ui
+- added ai chatbot
+- added search tool
+- added new links to read me
 
   
 ## 🌍 - About Nebula-X 
