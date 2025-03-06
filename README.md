@@ -66,7 +66,7 @@ deployment methods. just if you do fork please star!
 
 
 ## 🛰️ - Common Issues
-proxy not working? this is because Nebula X currently does not provide any functional proxy services. we are sorry for the inconvenience.
+proxy not working? This is because Nebula X currently does not provide any functional proxy services. we are sorry for the inconvenience.
 performance mode not working? this is because it is broken. We are so sorry for the inconvenience and will fix it soon.
 
 ## ☄️ - Other unbl0ked links / sites.
