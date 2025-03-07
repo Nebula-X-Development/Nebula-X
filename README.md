@@ -14,7 +14,7 @@
 -   Out-of-this-world UI - (More UI updates soon)
 -   Games - (WORKING!)
 -   Tools - (New!)
--   Proxy - (BETA)
+-   Proxy - (New!)
 -   Settings - (BETA)
 -   About:Blank cloaking - (WORKING!)
 -   Tab cloaking - (New!)
@@ -25,14 +25,14 @@
 
 ## 👨‍🚀 - Update Notes
 v2.0.0 notes
-- Proxy full release coming very soon!!!
+- Proxy full release 
 
   
 ## 🌍 - About Nebula-X 
 
 </p>
-
- Nebula-X BETA is an open-source project currently in development, focused on creating a web-based proxy with a sleek, modern, space-inspired UI. At this stage, the project showcases the foundational design, offering a visually captivating experience with a futuristic, space-themed interface. While functionality is still in progress, Nebula-X will eventually provide a high-performance, secure, and user-friendly proxy service. As the project evolves, it aims to combine cutting-edge design with robust functionality to deliver an exceptional browsing experience. we hope to provide the best unblocked experience possible. 
+credit to my mans abovescore for the backend. wouldnt be here without u man :3
+Nebula X is a modern, user-focused proxy solution designed to enhance browsing privacy and flexibility. It integrates the Ultraviolet Proxy, which allows users to securely route web traffic, ensuring anonymity while browsing. Nebula X features a customizable user interface with a sleek, space-inspired design and tools like a JavaScript Injector and Encoder/Decoder. The platform also includes a Panic Key for quick redirection to a set URL, offering users a discreet escape when needed. The recently added Ultraviolet Proxy integration ensures smooth, secure web browsing, and new tab cloaking options give users full control over tab titles and favicons. Nebula X offers a range of features designed to optimize both security and user experience, making it a powerful tool for anyone who values privacy online.
 
 <p align="center">
 <img src="https://socialify.git.ci/Nebula-X-Development/Nebula-X-BETA/image?font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNebula-X-Development%2FNebula-X-BETA%2Frefs%2Fheads%2Fmain%2FNEBULA_LOGO.png&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Nebula-X-BETA" width="640" height="320" />
@@ -40,11 +40,10 @@ v2.0.0 notes
 ## 🪐 - Using Nebula-X 
 
 > [!WARNING]
-> Nebula-X is in **BETA** and currently is in testing phase. which means no proxy functionality.
-> Our team is working hard to get the Proxy up and running. please be patient.
+> Nebula-X is still very new and may have bugs. please report any you find.
 > our team is working hard to make nebula deployable everywhere so we can become almost unblockable!
 
-Nebula links and deployment. Currently you can deploy Nebula on Netlify, render and Github pages. there are a few bugs currently on the deployable sites. which you may see, we are working our hardest to fix all these bugs and plan on getting them all fixed by the final release.  for best experience, please use the first link!!!
+use the nebula-x-site repo to depoloy asi t has up to date code and is organized.
 
 **CURRENT LINKS**
 - https://nx.above.gay/(main)
