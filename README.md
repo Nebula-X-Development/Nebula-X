@@ -43,12 +43,12 @@ Nebula X is a modern, user-focused proxy solution designed to enhance browsing p
 > Nebula-X is still very new and may have bugs. please report any you find.
 > our team is working hard to make nebula deployable everywhere so we can become almost unblockable!
 
-use the nebula-x-site repo to depoloy asi t has up to date code and is organized.
+use the nebula-x-site repo to deploy as itt has up to date code and is organized.
 
 **CURRENT LINKS**
 - https://nx.above.gay/(main)
 - https://nebulax.playcode.io/index.html (not updated backup)
-- https://nebulaxdev.netlify.app/
+- https://nebulaprxy-x.netlify.app/
 - https://nebula-x-development.github.io/Nebula-X-site/index.html 
 - https://nebula-x-site.onrender.com 
 you can also deploy it on your own! using any statcik hosts. (exept for github codespaces)
