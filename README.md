@@ -47,9 +47,10 @@ v2.0.0 notes
 Nebula links and deployment. Currently you can deploy Nebula on Netlify, render and Github pages. there are a few bugs currently on the deployable sites. which you may see, we are working our hardest to fix all these bugs and plan on getting them all fixed by the final release.  for best experience, please use the first link!!!
 
 **CURRENT LINKS**
+- https://nx.above.gay/(main)
 - https://nebulax.playcode.io/index.html (not updated backup)
 - https://nebulaxdev.netlify.app/
-- https://nebula-x-development.github.io/Nebula-X-site/index.html (main)
+- https://nebula-x-development.github.io/Nebula-X-site/index.html 
 - https://nebula-x-site.onrender.com 
 you can also deploy it on your own! using any statcik hosts. (exept for github codespaces)
 ## 🌑 - Support 
