@@ -25,10 +25,7 @@
 
 ## 👨‍🚀 - Update Notes
 v2.0.0 notes
-- updted ui
-- added ai chatbot
-- added search tool
-- added new links to read me
+- Proxy full release coming very soon!!!
 
   
 ## 🌍 - About Nebula-X 
