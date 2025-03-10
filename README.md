@@ -46,7 +46,7 @@ Nebula X is a modern, user-focused proxy solution designed to enhance browsing p
 use the nebula-x-site repo to deploy as itt has up to date code and is organized.
 
 **CURRENT LINKS**
-- https://nx.above.gay/(main)
+- https://nx.above.gay/ (main)
 - https://nebulax.playcode.io/index.html (not updated backup)
 - https://nebulaprxy-x.netlify.app/
 - https://nebula-x-development.github.io/Nebula-X-site/index.html 
