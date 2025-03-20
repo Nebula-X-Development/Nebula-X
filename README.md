@@ -25,7 +25,9 @@
 
 ## 👨‍🚀 - Update Notes
 v2.0.0 notes
-- Proxy full release 
+- updated settings. (about blank fix coming soon)
+- added more games from requests.
+- upgrading the proxy for smoother interaction
 
   
 ## 🌍 - About Nebula-X 
