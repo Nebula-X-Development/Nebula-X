@@ -24,10 +24,11 @@
 -   working search tool
 
 ## 👨‍🚀 - Update Notes
-v2.0.0 notes
+v2.0.6 notes
 - updated settings. (about blank fix coming soon)
 - added more games from requests.
 - upgrading the proxy for smoother interaction
+- added tab cloak to embed html
 
   
 ## 🌍 - About Nebula-X 
