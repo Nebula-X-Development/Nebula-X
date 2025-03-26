@@ -65,6 +65,6 @@ none :) Report any issues you experience in the issues tab, and our team will ge
 
 ## ☄️ - Other unbl0ked links / sites.
 Here at Nebula, our main goal is to provide unblocked fun. We understand that our site will have some issues, but there are better sites out there. so we decided instead of trying to hide that we decided to embrace it. This is a list of working unbl0ked links for games, pr0xies, ai, and more. we don't claim any of these sites as ours because they aren't. We hope you enjoy these if our service doesn't live up to what it should. Thank you for using Nebula! go here for the links --->  https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/links%20(not%20Nebula).md
-thanks for reading all this :D
+thanks for reading all this :D.
 ## Keywords.
 securly, goguardian, unblocked, unblocker, proxy, unblocked games, securly bypass, school blocker, best proxy, unblocked, unblocked game website, unblocked games for school, school Chromebook
