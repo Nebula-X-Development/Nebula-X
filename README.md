@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 > If you use our site, please consider giving us
-> star. Thank you! 🛸
+> star. Thank you! 🛸.
 ## 👾 - Features
 
 -   Out-of-this-world UI - (More UI updates soon)
