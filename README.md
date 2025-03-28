@@ -24,7 +24,8 @@
 -   working search tool
 
 ## 👨‍🚀 - Update Notes
-v2.0.6 notes.
+v2.0.7 notes
+- added data:url launcher
 - updated settings. (about blank fix coming soon)
 - added more games from requests.
 - upgrading the proxy for smoother interaction
