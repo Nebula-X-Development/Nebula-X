@@ -54,7 +54,8 @@ Use the nebula-x-site repo to deploy as it has up to date code and is organized.
 - https://nebulax.playcode.io/index.html (not updated backup)
 - https://nebulaprxy-x.netlify.app/
 - https://nebula-x-development.github.io/Nebula-X-site/index.html
-- https://nx.global.ssl.fastly.net/ 
+- https://nx.global.ssl.fastly.net/
+- Nebx.above.gay
 You can also deploy it on your own! using any statcik hosts. (except for github codespaces)
 
 <p>you also may use our new data:URL launcher! just copy this and put it in your URL bar :D (credits to above)
