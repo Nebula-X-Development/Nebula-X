@@ -1,3 +1,13 @@
+> [!WARNING]
+> 🚨 **Launcher & Website Issues**
+> {april 10, 09:49 AM EST}
+> 
+> We’re currently experiencing problems with the launcher and website servers.
+> some javascript is broken, and some of our links are not working.  
+> Our team is actively investigating and working on a fix.  
+> Please stay tuned — updates will be posted here.
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/Nebula Banner.png" alt="Nebula-X Logo">
 <p align="center"> https://nebx.above.gay/
