@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/Nebula Banner.png" alt="Nebula-X Logo">
-<p align="center"> https://nebulax.playcode.io
+<p align="center"> https://nx.above.gay/
 
 <h2 align="center"> 🔭 Explore the Web Beyond the Stars 🔭 </h2>
   
@@ -55,7 +55,7 @@ Use the nebula-x-site repo to deploy as it has up to date code and is organized.
 - https://nebulaprxy-x.netlify.app/
 - https://nebula-x-development.github.io/Nebula-X-site/index.html
 - https://nx.global.ssl.fastly.net/
-- Nebx.above.gay
+- https://Nebx.above.gay
 You can also deploy it on your own! using any statcik hosts. (except for github codespaces)
 
 <p>you also may use our new data:URL launcher! just copy this and put it in your URL bar :D (credits to above)
