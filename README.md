@@ -1,11 +1,12 @@
 > [!WARNING]
-> 🚨 **Launcher & Website Issues**
-> {april 10, 09:49 AM EST}
+> 🚨 **Production/Development pause**
+> {april 21, 09:16 AM EST}
 > 
-> We’re currently experiencing problems with the launcher and website servers.
-> some javascript is broken, and some of our links are not working.  
-> Our team is actively investigating and working on a fix.  
-> Please stay tuned — updates will be posted here.
+> hello everyone! I am going to be taking a break from development.
+> I have final exams, and I've just been overwhelmed with all this growth nebula has had.
+> So I, the owner, will be taking a break. I don't have a return date yet, but I should be back in 2-3 weeks.
+>  I'm not giving up, only taking a break. I do want to thank all of you for your support, I really appreciate it :)
+> best wishes, nebula owner <3    - 
 
 
 <p align="center">
