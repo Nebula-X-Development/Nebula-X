@@ -3,7 +3,7 @@
 > {april 21, 09:16 AM EST}
 > 
 > hello everyone! I am going to be taking a break from development.
-> I have final exams, and I've just been overwhelmed with all this growth nebula has had.
+> I have final exams, and I've just been overwhelmed with all this growth Nebula has had.
 > So I, the owner, will be taking a break. I don't have a return date yet, but I should be back in 2-3 weeks.
 >  I'm not giving up, only taking a break. I do want to thank all of you for your support, I really appreciate it :)
 > best wishes, nebula owner <3    
